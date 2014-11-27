@@ -4,7 +4,7 @@
   "description": "Transforms JSX file to Js",
   "main": "JSXTransformerDomain.js",
   "dependencies": {
-    "react-tools": "^0.10.0",
+    "react-tools": "^0.12.1",
     "grunt": "^0.4.5",
     "js-beautify": "^1.5.1"
   },
