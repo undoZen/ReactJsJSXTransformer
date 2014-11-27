@@ -1,6 +1,6 @@
 {
   "name": "reactJsJSXTransformer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Transforms JSX file to Js",
   "main": "JSXTransformerDomain.js",
   "dependencies": {
